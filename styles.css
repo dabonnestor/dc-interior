@@ -152,7 +152,7 @@ p {
 
 @media (max-width: 768px) {
   .wrapper {
-    align-items: flex-start;
+    align-items: start;
   }
 }
 
